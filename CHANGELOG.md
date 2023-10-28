@@ -1,3 +1,14 @@
+# [3.0.0](https://github.com/glocalflex/release/compare/v2.0.0...v3.0.0) (2023-10-28)
+
+
+* feat: ([26c80fd](https://github.com/glocalflex/release/commit/26c80fd93ee205b68b32a107214577162eab1194))
+
+
+### BREAKING CHANGES
+
+* isolate scope bindings definition has changed and
+    the inject option for the directive controller injection was removed.
+
 # [2.0.0](https://github.com/glocalflex/release/compare/v1.3.0...v2.0.0) (2023-10-28)
 
 
