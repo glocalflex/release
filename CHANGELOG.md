@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/glocalflex/release/compare/v1.1.0...v1.2.0) (2023-10-28)
+
+
+### Features
+
+* feature  change ([9ed90e7](https://github.com/glocalflex/release/commit/9ed90e79ad78f31421b57738758bf0dd91007744))
+
 # [1.1.0](https://github.com/glocalflex/release/compare/v1.0.0...v1.1.0) (2023-10-28)
 
 
