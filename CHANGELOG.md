@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/glocalflex/release/compare/v1.3.0...v2.0.0) (2023-10-28)
+
+
+* feature: ([4e0ab9a](https://github.com/glocalflex/release/commit/4e0ab9af0ee66ea03a5780ef2d9fb729154ee408))
+
+
+### Features
+
+* feature   BREAKING CHANGE breaking change ([01b0eaa](https://github.com/glocalflex/release/commit/01b0eaaeb8eeb40119677dd735d692573b5fd348))
+* feature  change ([8cdc20e](https://github.com/glocalflex/release/commit/8cdc20e542da907b573e6655fbb58488b076f391))
+* feature  change ([83faad0](https://github.com/glocalflex/release/commit/83faad0d1df0c1d79ffae513c7ffe3166f259352))
+
+
+### BREAKING CHANGES
+
+* something broke
+
 # [1.3.0](https://github.com/glocalflex/release/compare/v1.2.1...v1.3.0) (2023-10-28)
 
 
