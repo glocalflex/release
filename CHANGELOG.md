@@ -4,6 +4,7 @@
 * feat: ([26c80fd](https://github.com/glocalflex/release/commit/26c80fd93ee205b68b32a107214577162eab1194))
 
 
+
 ### BREAKING CHANGES
 
 * isolate scope bindings definition has changed and
