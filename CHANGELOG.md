@@ -1,3 +1,10 @@
+## [4.0.2](https://github.com/glocalflex/release/compare/v4.0.1...v4.0.2) (2023-10-28)
+
+
+### Reverts
+
+* "feat:" ([f3630e0](https://github.com/glocalflex/release/commit/f3630e04c74bf9911f57644814d4bacb1a4382a9))
+
 # [3.0.0](https://github.com/glocalflex/release/compare/v2.0.0...v3.0.0) (2023-10-28)
 
 
